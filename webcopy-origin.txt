@@ -1,0 +1,928 @@
+Uri: http://localhost:10016/
+File Name: C:\Downloaded Web Sites\localhost\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/about-us/
+File Name: C:\Downloaded Web Sites\localhost\about-us\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/borehole-drilling/
+File Name: C:\Downloaded Web Sites\localhost\borehole-drilling\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/comments/feed/
+File Name: C:\Downloaded Web Sites\localhost\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://localhost:10016/contact-us/
+File Name: C:\Downloaded Web Sites\localhost\contact-us\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/faqs/
+File Name: C:\Downloaded Web Sites\localhost\faqs\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/feed/
+File Name: C:\Downloaded Web Sites\localhost\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://localhost:10016/irrigation/
+File Name: C:\Downloaded Web Sites\localhost\irrigation\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/ourworks/
+File Name: C:\Downloaded Web Sites\localhost\ourworks\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/services/
+File Name: C:\Downloaded Web Sites\localhost\services\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/shallow-wells/
+File Name: C:\Downloaded Web Sites\localhost\shallow-wells\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/solar-2/
+File Name: C:\Downloaded Web Sites\localhost\solar-2\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/swimmingpools/
+File Name: C:\Downloaded Web Sites\localhost\swimmingpools\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/water-pumps/
+File Name: C:\Downloaded Web Sites\localhost\water-pumps\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/water-treatment/
+File Name: C:\Downloaded Web Sites\localhost\water-treatment\index.htm
+Content Type: text/html
+
+Uri: http://localhost:10016/wp-content/litespeed/css/0ae3eb10d817bb210d70420618501433.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\0ae3eb10d817bb210d70420618501433.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/18f4d36d295a5745641479765ea3f0df.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\18f4d36d295a5745641479765ea3f0df.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/673809f01aacea779a12167423587bef.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\673809f01aacea779a12167423587bef.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/749bec3f4b6e19de71d5fdd93ae2ed06.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\749bec3f4b6e19de71d5fdd93ae2ed06.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/93113845db75a373f536d671595f0518.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\93113845db75a373f536d671595f0518.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/a59ae4701ddd559761234cb6c45e0603.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\a59ae4701ddd559761234cb6c45e0603.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/bab66459ac130b428a2de41d7f3c76ff.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\bab66459ac130b428a2de41d7f3c76ff.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/ce3441ad0c3a85c16a5a0b4c0ff17ec5.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\ce3441ad0c3a85c16a5a0b4c0ff17ec5.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/cee2eb5439e2a4bf8afc350f62661706.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\cee2eb5439e2a4bf8afc350f62661706.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/d3ba869ecd9f64b1907f471b43bf80a1.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\d3ba869ecd9f64b1907f471b43bf80a1.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/d458500617cc6710978e90a58a055fb4.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\d458500617cc6710978e90a58a055fb4.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/e1a2fb146f059cb0b1248f5a2a257986.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\e1a2fb146f059cb0b1248f5a2a257986.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/e4eed96befb5f31b1089235ffc3d146c.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\e4eed96befb5f31b1089235ffc3d146c.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/css/f008da117f75aefacd96ea7781be27f8.css?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\css\f008da117f75aefacd96ea7781be27f8.css
+Content Type: text/css
+
+Uri: http://localhost:10016/wp-content/litespeed/js/17315884f71b3f36f79d77d01441170e.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\17315884f71b3f36f79d77d01441170e.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/2528cbd9b3253c2490605af7455afb3a.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\2528cbd9b3253c2490605af7455afb3a.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/33c015346cbfcf3e87ad2a0114c66a20.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\33c015346cbfcf3e87ad2a0114c66a20.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/63f82e0266c866a15fe92e57819fcb06.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\63f82e0266c866a15fe92e57819fcb06.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/6db78347e1a462600ce899de9201fd25.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\6db78347e1a462600ce899de9201fd25.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/72d9fa0d589fa12e3e5c1ba57ae9ddfd.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\72d9fa0d589fa12e3e5c1ba57ae9ddfd.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/7827672e93bb044400d7d9da615a3016.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\7827672e93bb044400d7d9da615a3016.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/9792051936db72419dddecd7fb7edeca.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\9792051936db72419dddecd7fb7edeca.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/9b9c3371c101dfe7b33a9ef5a91610c6.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\9b9c3371c101dfe7b33a9ef5a91610c6.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/bbaecb43502b4b6e5dde442845746c7b.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\bbaecb43502b4b6e5dde442845746c7b.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/d55372ad226878de0b61ba9df54dbd36.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\d55372ad226878de0b61ba9df54dbd36.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/f5ebce618c5d0dbf83b7a143a840cea0.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\f5ebce618c5d0dbf83b7a143a840cea0.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/litespeed/js/f9eca245bf734725c1a410a6bf8936ba.js?ver=7ff54
+File Name: C:\Downloaded Web Sites\localhost\wp-content\litespeed\js\f9eca245bf734725c1a410a6bf8936ba.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.svg?8ijr83
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.ttf?8ijr83
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.woff2?8ijr83
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/bdthemes-element-pack-lite/assets/fonts/element-pack.woff?8ijr83
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\bdthemes-element-pack-lite\assets\fonts\element-pack.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/bdthemes-element-pack-lite/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\bdthemes-element-pack-lite\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/img/wa_bg.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\img\wa_bg.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\happy-elementor-addons\assets\vendor\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\litespeed-cache\assets\js\webfontloader.min.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/images/skype.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\images\skype.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/images/telegram.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/images/twitter-x.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\images\twitter-x.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/fontello/font/tss-font.eot?40673691
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\vendor\fontello\font\tss-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/fontello/font/tss-font.svg?40673691
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\vendor\fontello\font\tss-font.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/fontello/font/tss-font.ttf?40673691
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\vendor\fontello\font\tss-font.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/fontello/font/tss-font.woff2?40673691
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\vendor\fontello\font\tss-font.woff2
+Content Type: application/font-woff2
+
+Uri: http://localhost:10016/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/fontello/font/tss-font.woff?40673691
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\testimonial-slider-and-showcase\assets\vendor\fontello\font\tss-font.woff
+Content Type: application/font-woff
+
+Uri: http://localhost:10016/wp-content/plugins/wpforms/assets/pro/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\plugins\wpforms\assets\pro\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/2.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\2.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0002-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0002-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0002.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0003-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0003-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0003.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0005.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0005.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0007-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0007-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100251_0007-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100251_0007-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100252_0011-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100252_0011-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100252_0011-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100252_0011-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100252_0012-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100252_0012-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240214_100252_0014.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240214_100252_0014.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_041736_0000.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_041736_0000.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_041736_0001.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_041736_0001.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_041736_0003.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_041736_0003.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_041737_0004.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_041737_0004.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_041737_0005.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_041737_0005.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_054539_0000.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_054539_0000.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_112628_0000.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_112628_0000.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_123231_0000.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_123231_0000.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240216_123957_0000.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240216_123957_0000.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0002-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0002-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0002.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0003-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0003-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0003.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0005-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0005-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240219_103952_0005.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240219_103952_0005.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240222_135546_0000-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240222_135546_0000-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/20240222_135546_0000.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\20240222_135546_0000.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/7_20240213_193537_0003-3.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\7_20240213_193537_0003-3.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/8_20240214_203053_0007.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\8_20240214_203053_0007.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/abuja-nigeria-august-02-2021-600nw-2018049746.webp
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\abuja-nigeria-august-02-2021-600nw-2018049746.webp
+Content Type: image/webp
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/cropped-cropped-totally-transparent-logo-180x180.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\cropped-cropped-totally-transparent-logo-180x180.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/cropped-cropped-totally-transparent-logo-192x192.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\cropped-cropped-totally-transparent-logo-192x192.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/cropped-cropped-totally-transparent-logo-32x32.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\cropped-cropped-totally-transparent-logo-32x32.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/fresh2.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\fresh2.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/gmail-1.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\gmail-1.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/gps.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\gps.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/I.B.O-WATER-ENGINEERING-SOLUTIONS_20240215_212804_0000-1-300x113.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\I.B.O-WATER-ENGINEERING-SOLUTIONS_20240215_212804_0000-1-300x113.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0009.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0009.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0034-2.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0034-2.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0034.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0034.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0046-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0046-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0056-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0056-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240213-WA0056.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240213-WA0056.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240216-WA0002-150x150.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240216-WA0002-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240216-WA0002-300x300.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240216-WA0002-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240216-WA0002-768x768.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240216-WA0002-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240216-WA0002.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240216-WA0002.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/IMG-20240217-WA0025.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\IMG-20240217-WA0025.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/irriga.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\irriga.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/joe-ciciarelli-08AJKJf75kw-unsplash-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\joe-ciciarelli-08AJKJf75kw-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/s1-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\s1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/s4-1.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\s4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/s4-3.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\s4-3.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/Shallow-well-cover-using-small-door.webp
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\Shallow-well-cover-using-small-door.webp
+Content Type: image/webp
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/solar-pump.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\solar-pump.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/totally-transparent-logo-1.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\totally-transparent-logo-1.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/treat.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\treat.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/2024/02/whatsapp-1.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\2024\02\whatsapp-1.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/4_20240213_222033_0000-qjrgybfmvoyj6947omk9crad77fil66onust0jyq9c.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\4_20240213_222033_0000-qjrgybfmvoyj6947omk9crad77fil66onust0jyq9c.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/5_20240214_203053_0004-qjt2v7ccks7zbcjkzx0yrkchz72v0ptq3ah1ju7czs.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\5_20240214_203053_0004-qjt2v7ccks7zbcjkzx0yrkchz72v0ptq3ah1ju7czs.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/6_20240213_193537_0002-4-qjsc1zsko8x7eckc577gvmrq8ah3xr0d1y2lrzbwco.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\6_20240213_193537_0002-4-qjsc1zsko8x7eckc577gvmrq8ah3xr0d1y2lrzbwco.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/8_20240214_203053_0007-qjt2vb3pc4d4lse4dynh1jeccqkbvi8nft2zgy1saw.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\8_20240214_203053_0007-qjt2vb3pc4d4lse4dynh1jeccqkbvi8nft2zgy1saw.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/9_20240214_203053_0008-qjt2vc1ix1074e9w10mijzqmfgbvrbqiu1fvvirs44.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\9_20240214_203053_0008-qjt2vc1ix1074e9w10mijzqmfgbvrbqiu1fvvirs44.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/9_20240214_203053_0008-qjt2vc1jiyeexecr8h23m15sy4fp37cdrxqgy80e4o.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\9_20240214_203053_0008-qjt2vc1jiyeexecr8h23m15sy4fp37cdrxqgy80e4o.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/dripinsta-qjwpzdjoa9s55k8ai8k9ug27w9y8ewkz1z3be3k32g.webp
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\dripinsta-qjwpzdjoa9s55k8ai8k9ug27w9y8ewkz1z3be3k32g.webp
+Content Type: image/webp
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/eeeeee-qjt29tikbbr15zmyqy2nh84ct1g8l2q8415t9zlztc.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\eeeeee-qjt29tikbbr15zmyqy2nh84ct1g8l2q8415t9zlztc.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/finished-project-3-2-qjs05de1fsz16x70vp50tk37ve2lmy7e31n7dejwy8.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\finished-project-3-2-qjs05de1fsz16x70vp50tk37ve2lmy7e31n7dejwy8.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/fresh2-qjv0shy9h07i0m16rj5btu1pmpnk3eb76qqozzsbd4.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\fresh2-qjv0shy9h07i0m16rj5btu1pmpnk3eb76qqozzsbd4.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/goin-qjw9r4166jyujawn76plhdsn53pqvw3dq4v3hbuop4.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\goin-qjw9r4166jyujawn76plhdsn53pqvw3dq4v3hbuop4.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/I.B.O-WATER-ENGINEERING-SOLUTIONS_20240215_212804_0000-1-qjuw09yt9se76li08tsj4f6a0pxsb8ojr4fkfiaorg.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\I.B.O-WATER-ENGINEERING-SOLUTIONS_20240215_212804_0000-1-qjuw09yt9se76li08tsj4f6a0pxsb8ojr4fkfiaorg.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0005-qjwi6k9gj3dane4l9crpft3r181lu6rtg2s6z5x7yg.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0005-qjwi6k9gj3dane4l9crpft3r181lu6rtg2s6z5x7yg.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0029-qjvp8dpi6thxu8s9gbdfqxjhao9iq7l2caiflgx2ec.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0029-qjvp8dpi6thxu8s9gbdfqxjhao9iq7l2caiflgx2ec.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0029-qjvp8dpkmj33ajrvg6g08n57k9wvoo03emfowr4zzc.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0029-qjvp8dpkmj33ajrvg6g08n57k9wvoo03emfowr4zzc.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0039-qjw9h17gwi661tjo1tvlqxcpude2cq2zo91o8isnew.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0039-qjw9h17gwi661tjo1tvlqxcpude2cq2zo91o8isnew.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0044-2-qjyzil6bspv5teo5xhz6i97bp4nxsy64xxaq95hmyw.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0044-2-qjyzil6bspv5teo5xhz6i97bp4nxsy64xxaq95hmyw.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240213-WA0044-qjwi4jvvwum7tf1pzzhfltd9ajycdhshi4jt0uwj9k.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240213-WA0044-qjwi4jvvwum7tf1pzzhfltd9ajycdhshi4jt0uwj9k.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240216-WA0002-qjwhxtdixle8m0tzc2noqikc155n7l1qks8j7gw3uw.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240216-WA0002-qjwhxtdixle8m0tzc2noqikc155n7l1qks8j7gw3uw.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240217-WA0024-qjz0di38kk6nnprlev1gigd31caiykwbuxpmgrnibs.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240217-WA0024-qjz0di38kk6nnprlev1gigd31caiykwbuxpmgrnibs.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/IMG-20240217-WA0026-qjyzy0oxzszmey98to3oxv0qrulv62fi2auovolytk.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\IMG-20240217-WA0026-qjyzy0oxzszmey98to3oxv0qrulv62fi2auovolytk.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/Kids-with-dispenser2-1-qjz16sq5koadi77ociwv8289jnwcuz75vxoex87seg.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\Kids-with-dispenser2-1-qjz16sq5koadi77ociwv8289jnwcuz75vxoex87seg.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/pump-omsta-1-qjxbtlnsti2cbm6zi367g1m7iuquspuchfgae5taiw.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\pump-omsta-1-qjxbtlnsti2cbm6zi367g1m7iuquspuchfgae5taiw.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/s1-qjt9w2vaf36ql222yoa4fvv4g84h3zxedg2pml06lg.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\s1-qjt9w2vaf36ql222yoa4fvv4g84h3zxedg2pml06lg.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/s4-3-qjw8zstzlulhnrx30geakdqi5ws0idnbwfz1iuvgj4.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\s4-3-qjw8zstzlulhnrx30geakdqi5ws0idnbwfz1iuvgj4.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/s5-qjw8zvni6cos60gp7wxpqr6vk7xwvkzcbcfnxq8ayw.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\s5-qjw8zvni6cos60gp7wxpqr6vk7xwvkzcbcfnxq8ayw.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/sprinkler-qjwq4ocwtn1cmej4k11jelwshhtqtgmhg7ivt9p5zc.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\sprinkler-qjwq4ocwtn1cmej4k11jelwshhtqtgmhg7ivt9p5zc.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/treat-1-qjwmmo3sn6jk89kack805em9nywcy6dvgj5lrwj43s.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\treat-1-qjwmmo3sn6jk89kack805em9nywcy6dvgj5lrwj43s.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/treat-qjwlekie006tzgyn72nl752qq0pm3aaezqsc8ig12o.jpg
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\treat-qjwlekie006tzgyn72nl752qq0pm3aaezqsc8ig12o.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/Typical-drip-irrigation-system-layout-1-qjwqoyphpzexeezdvub2ny6rj7q4mek2aq4kmkdno4.png
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\Typical-drip-irrigation-system-layout-1-qjwqoyphpzexeezdvub2ny6rj7q4mek2aq4kmkdno4.png
+Content Type: image/png
+
+Uri: http://localhost:10016/wp-content/uploads/elementor/thumbs/Water-pumps-for-irrigation-in-Uganda-qjydu3up11g1lkd3e4r657gqrbk2gjppmwgktypthk.webp
+File Name: C:\Downloaded Web Sites\localhost\wp-content\uploads\elementor\thumbs\Water-pumps-for-irrigation-in-Uganda-qjydu3up11g1lkd3e4r657gqrbk2gjppmwgktypthk.webp
+Content Type: image/webp
+
+Uri: http://localhost:10016/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\localhost\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://localhost:10016/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\localhost\wp-includes\fonts\dashicons.ttf
+Content Type: application/font-sfnt
+
+Uri: http://localhost:10016/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\localhost\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://localhost:10016/wp-json/
+File Name: C:\Downloaded Web Sites\localhost\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fborehole-drilling%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fborehole-drilling%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Firrigation%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Firrigation%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fourworks%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fourworks%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fservices%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fshallow-wells%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fshallow-wells%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fsolar-2%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fsolar-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fswimmingpools%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fswimmingpools%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fwater-pumps%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fwater-pumps%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fwater-treatment%2F
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost:10016%2Fwater-treatment%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/1436
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\1436
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/3799
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\3799
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/3914
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\3914
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/3967
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\3967
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/3986
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\3986
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/4033
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\4033
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/4078
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\4078
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/4106
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\4106
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/540
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\540
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/541
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\541
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/542
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\542
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/543
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\543
+Content Type: application/json
+
+Uri: http://localhost:10016/wp-json/wp/v2/pages/544
+File Name: C:\Downloaded Web Sites\localhost\wp-json\wp\v2\pages\544
+Content Type: application/json
+
+Uri: http://localhost:10016/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\localhost\xmlrpc.php
+Content Type: text/xml
+
