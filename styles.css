@@ -117,7 +117,7 @@ a:hover{
 .hamburger-icon.open span:nth-child(2){ /*this means the 2nd element under that class which is the second span element*/
     opacity: 0;
 }
-.hamburger-icon.open span:last-child{ 
+.hamburger-icon.open span:last-child /*this will onlly be shown when the button is clicked and the open class is activated*/{ 
     transform: rotate(-45deg) translate(10px, -5px);
 }
 
@@ -129,4 +129,161 @@ a:hover{
 }
 .hamburger-icon span:first-child{
     transform: none;
+}
+
+
+
+/*SECTIONS*/
+section{
+    padding-top: 4vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+}
+
+/*profile*/
+#profile{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 80vh;
+}
+
+
+.section__pic-container{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin:auto 0;
+
+}
+img{
+    border-radius: 50%;
+}
+.section__text{
+    /* border: 2px solid black; */
+    text-align: center;
+    align-self: center;
+}
+
+.section__text p{
+    font-weight: 600;
+}
+
+.section__text__p1{
+    margin-bottom: 1rem;
+}
+.section__text__p2{
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+
+.title{
+    font-size: 3rem;
+    text-align: center;
+}
+
+#socials-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+    /* border: 2px solid; */
+}
+
+
+/*ICONS*/
+.icon{
+    height: 2rem;
+    cursor: pointer;
+}
+
+/*BUTTONS*/
+.btn-container{
+
+    gap: 1rem;
+    justify-content: center;
+    display: flex;
+}
+
+
+.btn{
+    border-radius: 2rem;
+    width: 8rem;
+    padding: 1rem;
+    transition: all 300ms ease;
+    font-weight: 600;
+}
+
+
+.btn-color-1, .btn-color-2{
+    border: rgb(53, 53, 53) 0.1rem solid;
+}
+
+.btn-color-1:hover,.btn-color-2:hover{
+    cursor: pointer;
+}
+
+.btn-color-1,.btn-color-2:hover{
+    background: rgb(53, 53, 053);
+    color: white;
+}
+
+.btn-color-1:hover{
+    background: rgb(0, 0, 0);
+}
+
+.btn-color-2{
+    background: none;
+}
+
+.btn-color-2:hover{
+    border: rgb(255, 255, 255) 0.1rem solid;
+}
+
+.btn-container{
+    gap: 1rem;
+}
+
+
+/*ABOUT*/
+.heading{
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+.about{
+    font-weight: 800;
+}
+
+#about{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+.pic{
+
+}
+.bw{
+    border-radius: 5%;
+    width: 400px;
+}
+
+.cards{
+    gap: 5rem;
+    display: flex;
+    margin-bottom: 4vh;
+}
+.card{
+    padding: 40px 80px;
+    text-align: center;
+    border: solid rgb(89, 89, 89);
+    border-radius: 15%;
+
+}
+
+.exp{
+    font-weight: bold;
 }
